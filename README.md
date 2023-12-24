@@ -1,4 +1,4 @@
-[Roger](https://github.com/rnem/articles)'s Articles
+[Roger](https://github.com/rnem/articles)'s Articles [![Awesome](/images/badge.svg)](https://github.com/rnem/articles#readme)
 =================
 
 This repository houses publically available articles I have written covering diverse 
