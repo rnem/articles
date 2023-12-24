@@ -1,4 +1,4 @@
-[Rnem][q]'s Articles
+[Roger](https://github.com/rnem/articles)'s Articles
 =================
 
 This repository houses publically available articles I have written covering diverse 
