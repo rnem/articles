@@ -11,7 +11,8 @@ Below is a short summary about them.
 
 ### Technology
 
-- [Hosting my Static Website in an AWS S3 Bucket](https://medium.com/@rogernem/hosting-my-static-website-in-an-aws-s3-bucket-d5e1d94417f4){:target="_blank"}
+- <a href="https://medium.com/@rogernem/hosting-my-static-website-in-an-aws-s3-bucket-d5e1d94417f4" target="_blank">Hosting my Static Website in an AWS S3 Bucket</a>
+- [Hosting my Static Website in an AWS S3 Bucket](https://medium.com/@rogernem/hosting-my-static-website-in-an-aws-s3-bucket-d5e1d94417f4)
 - [Static vs Dynamic Websites](https://medium.com/@rogernem/static-vs-dynamic-websites-4cc7dff82b7e)
 - [Types of Web Hosting](https://medium.com/@rogernem/types-of-web-hosting-bb6d1162fc76)
 - [Amazon Simple Storage Service (Amazon S3)](https://medium.com/@rogernem/amazon-simple-storage-service-eb0808cf30d5)
