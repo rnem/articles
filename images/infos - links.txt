@@ -1,0 +1,34 @@
+MEDIUM TIPS
+https://help.medium.com/hc/en-us/articles/215194537-Using-the-story-editor
+https://www.webfx.com/tools/emoji-cheat-sheet/
+
+WEB HOSTING
+https://mayankavasthi.medium.com/what-is-a-domain-name-and-web-hosting-4dd89d6304e
+https://www.sitesaga.com/types-of-web-hosting/
+https://www.bluehost.com/blog/types-of-web-hosting/
+https://cloud.google.com/learn/what-is-cloud-hosting
+https://www.geeksforgeeks.org/types-of-web-hosting/
+https://hostadvice.com/blog/web-hosting/difference-between-hosting-and-server/
+https://websitesetup.org/different-types-of-web-hosting/
+https://medium.com/illumination/use-this-platform-and-never-pay-for-web-hosting-again-best-web-hosting-e7e040c6fbd9
+
+AMAZON S3 WEBSITE
+https://www.linkedin.com/pulse/amazon-s3-access-points-vs-multi-region-sanket-parate/
+https://cloudkatha.com/is-s3-region-specific-or-global-what-do-you-think/#google_vignette
+https://aws.plainenglish.io/host-static-website-that-redirected-from-amazon-s3-bucket-aba61a6bbfda
+https://www.linkedin.com/pulse/web-redirect-via-aws-route-53-s3-richard-lenan-zhao/
+https://aws.amazon.com/pm/serv-s3/
+https://www.techtarget.com/searchaws/definition/Amazon-Web-Services
+
+
+https://en.wikipedia.org/wiki/Amazon_Web_Services
+https://aws.amazon.com/
+https://aws.amazon.com/what-is-aws/
+
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/HostingWebsiteOnS3Setup.html
+
+https://dev.to/mariehposa/hosting-a-static-website-with-amazon-s3-i5p
+
+
+https://medium.com/@kyle.galbraith/how-to-host-a-website-on-s3-without-getting-lost-in-the-sea-e2b82aa6cd38
