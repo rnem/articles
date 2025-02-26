@@ -1,0 +1,38 @@
+🔐 𝐈𝐦𝐩𝐨𝐫𝐭𝐚𝐧𝐭 𝐀𝐖𝐒 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐓𝐨𝐤𝐞𝐧 𝐒𝐞𝐫𝐯𝐢𝐜𝐞 (𝐒𝐓𝐒) 𝐔𝐩𝐝𝐚𝐭𝐞 🚀
+
+I wanted to share some significant changes coming to AWS STS that will enhance performance and reliability for AWS users.
+
+Starting early 2025, hashtag#AWS is implementing an important improvement to the STS global endpoint (sts.amazonaws.com). 
+
+𝐓𝐡𝐞 𝐤𝐞𝐲 𝐜𝐡𝐚𝐧𝐠𝐞? Requests will now be automatically served in the same Region as your AWS deployed workloads, rather than being routed through US East (N. Virginia).
+
+𝗪𝗵𝗮𝘁 𝘁𝗵𝗶𝘀 𝗺𝗲𝗮𝗻𝘀 𝗳𝗼𝗿 𝘆𝗼𝘂:
+• Better performance through local request handling
+• Enhanced resilience
+• Zero action required from customers
+
+📝 𝗞𝗲𝘆 𝗰𝗼𝗻𝘀𝗶𝗱𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝘀:
+• This applies to AWS Regions enabled by default
+• Opt-in Regions will continue using US East (N. Virginia)
+• CloudTrail logging remains consistent with current setup
+
+💡 𝗣𝗿𝗼 𝘁𝗶𝗽: While this change is beneficial, AWS still recommends using Regional STS endpoints whenever possible for optimal performance.
+
+⏱️ 𝗥𝗼𝗹𝗹𝗼𝘂𝘁 𝗧𝗶𝗺𝗲𝗹𝗶𝗻𝗲:
+The changes will be gradually implemented across AWS Regions that are enabled by default, with completion expected by mid-2025. The rollout begins with the Europe (Stockholm) Region.
+
+By following the steps in the blog post 𝗛𝗼𝘄 𝘁𝗼 𝘂𝘀𝗲 𝗥𝗲𝗴𝗶𝗼𝗻𝗮𝗹 𝗔𝗪𝗦 𝗦𝗧𝗦 𝗲𝗻𝗱𝗽𝗼𝗶𝗻𝘁𝘀 (link in comments), you can identify workloads that are still using the global STS endpoint and get insights into how to reconfigure them when required.
+
+This is a welcome improvement for the AWS community, especially for organizations running multi-region workloads. Looking forward to seeing the positive impact on application performance and reliability.
+
+What are your thoughts on this update?
+
+hashtag#AWS hashtag#CloudComputing hashtag#Security hashtag#TechNews hashtag#CloudArchitecture
+
+🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺
+
+✨ FOLLOW Roger Nem
+♻ LIKE and REPOST to help others.
+🏷 TAG someone who needs to see this.
+💬 COMMENT about it.
+💾 Save this post for future reference.
