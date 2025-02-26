@@ -1,0 +1,23 @@
+🚀 𝐀𝐦𝐚𝐳𝐨𝐧 𝐒𝟑 𝐍𝐨𝐰 𝐒𝐮𝐩𝐩𝐨𝐫𝐭𝐬 𝐂𝐨𝐧𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐖𝐫𝐢𝐭𝐞𝐬! 🚀
+
+As of August 20, 2024, Amazon S3 has rolled out an exciting new feature: 𝗰𝗼𝗻𝗱𝗶𝘁𝗶𝗼𝗻𝗮𝗹 𝘄𝗿𝗶𝘁𝗲𝘀. This update allows you to ensure that an object doesn't already exist before creating it. This is a game-changer for preventing accidental overwrites when uploading data! 🎯
+
+Using the 𝗣𝘂𝘁𝗢𝗯𝗷𝗲𝗰𝘁 or 𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲𝗠𝘂𝗹𝘁𝗶𝗽𝗮𝗿𝘁𝗨𝗽𝗹𝗼𝗮𝗱 API requests, you can now perform conditional writes on both general-purpose and directory buckets. This simplifies the way distributed applications with multiple clients update data in parallel across shared datasets. 🌐 
+
+Each client can now safely write objects without worrying about overwriting data that another client has already uploaded. No more complex client-side consensus mechanisms or extra API requests to check if an object exists—just let S3 handle it! 🛠️
+
+This feature is especially 𝗯𝗲𝗻𝗲𝗳𝗶𝗰𝗶𝗮𝗹 for 𝗹𝗮𝗿𝗴𝗲-𝘀𝗰𝗮𝗹𝗲 𝗮𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀, 𝗱𝗶𝘀𝘁𝗿𝗶𝗯𝘂𝘁𝗲𝗱 𝗺𝗮𝗰𝗵𝗶𝗻𝗲 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴, and other workloads that require 𝗵𝗶𝗴𝗵 𝗹𝗲𝘃𝗲𝗹𝘀 𝗼𝗳 𝗽𝗮𝗿𝗮𝗹𝗹𝗲𝗹𝗶𝘀𝗺. And the best part? It’s available at no extra cost across all AWS Regions, including AWS GovCloud (US) and AWS China Regions. 🌍
+
+Ready to start using conditional writes? You can access this feature through the AWS SDK, API, or CLI.
+
+Read more 👉 https://lnkd.in/gC-AY9Gq
+
+hashtag#AWS hashtag#Cloud hashtag#AmazonS3 hashtag#TechUpdate hashtag#DataManagement hashtag#Innovation hashtag#TechNews
+
+🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺
+
+✨ FOLLOW Roger Nem
+♻ LIKE and REPOST to help others.
+🏷 TAG someone who needs to see this.
+💬 COMMENT about it.
+💾 Save this post for future reference.
