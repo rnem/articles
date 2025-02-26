@@ -1,7 +1,0 @@
-🚀💻 For those interested in hosting a WordPress site in AWS utilizing Amazon EC2, Amazon RDS, and Amazon S3, I'm excited to share and invite you to explore my latest article at https://lnkd.in/gDUSTrFe. 
-
-Feel free to follow me for more articles and to connect if you have any inquiries or require further clarification.
-
-Your thoughts and feedback are always appreciated.
-
-#aws #awscloud #techtutorials #linkedinarticle #wordpress #rds #s3 #ec2 #cloudcomputing #cloud #cloudapplications
