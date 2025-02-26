@@ -1,0 +1,43 @@
+🚀 𝐑𝐞𝐬𝐢𝐥𝐢𝐞𝐧𝐜𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 𝐟𝐫𝐨𝐦 𝐖𝐞𝐫𝐧𝐞𝐫 𝐕𝐨𝐠𝐞𝐥𝐬' 𝐫𝐞:𝐈𝐧𝐯𝐞𝐧𝐭 𝐊𝐞𝐲𝐧𝐨𝐭𝐞
+
+At hashtag#AWS hashtag#reinvent, Werner Vogels highlighted two crucial aspects of resilience engineering: 𝐬𝐢𝐦𝐩𝐥𝐢𝐜𝐢𝐭𝐲 𝐚𝐧𝐝 𝐩𝐫𝐞𝐝𝐢𝐜𝐭𝐚𝐛𝐢𝐥𝐢𝐭𝐲. Let's dive into an example that illustrates these principles in action! 💡
+
+The Amazon Elastic Load Balancer (ELB) operates on AWS Hyperplane, an internal EC2 network service. When it comes to handling configuration changes, ELB Hyperplane employs a pull model - a great example of 𝐬𝐢𝐦𝐩𝐥𝐢𝐜𝐢𝐭𝐲 𝐢𝐧 𝐜𝐨𝐦𝐩𝐥𝐞𝐱 𝐬𝐲𝐬𝐭𝐞𝐦𝐬.
+
+Here's how it works: 
+1️⃣ Customer changes are stored in a configuration file on Amazon S3 
+2️⃣ ELB Hyperplane nodes 𝐜𝐨𝐧𝐬𝐭𝐚𝐧𝐭𝐥𝐲 𝐩𝐮𝐥𝐥 this configuration every few seconds 
+3️⃣ This pull occurs regardless of changes, creating a "constant work" pattern
+
+The beauty of this approach? 🎨
+
+• Predictable system behavior
+• Consistent file size, regardless of the number of ELBs configured
+• Simple to understand and implement (no PhD required! 😉)
+
+Contrast this with a push model, where: 
+❌ System performance correlates with the number of changes 
+❌ Many changes can slow down the system 
+❌ Slowdowns often lead to customer retries, further stressing the system
+
+Key takeaway: In complex systems, the simplest solution is often the most resilient. It might seem counterintuitive, but sometimes the "dull" approach is the most effective! 🎯
+
+Remember, just because we're dealing with complexity 𝐝𝐨𝐞𝐬𝐧'𝐭 𝐦𝐞𝐚𝐧 𝐨𝐮𝐫 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 𝐧𝐞𝐞𝐝 𝐭𝐨 𝐛𝐞 𝐜𝐨𝐦𝐩𝐥𝐢𝐜𝐚𝐭𝐞𝐝. The challenge is to find elegantly simple solutions to intricate problems.
+
+🔑 Important insight: Solutions always depend on the angle by which a problem is approached. The ELB Hyperplane example shows how reframing the problem (from push to pull) led to a more resilient and predictable system.
+
+What are your thoughts on this approach to resilience engineering? 
+
+Have you encountered situations where changing your perspective led to simpler, more effective solutions? 
+
+𝐒𝐡𝐚𝐫𝐞 𝐲𝐨𝐮𝐫 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞𝐬 𝐢𝐧 𝐭𝐡𝐞 𝐜𝐨𝐦𝐦𝐞𝐧𝐭𝐬 𝐛𝐞𝐥𝐨𝐰! 👇
+
+hashtag#AWS hashtag#CloudComputing hashtag#ResilienceEngineering hashtag#TechInnovation hashtag#ProblemSolving hashtag#Simplicity 
+
+🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺
+
+✨ FOLLOW Roger Nem
+♻ LIKE and REPOST to help others.
+🏷 TAG someone who needs to see this.
+💬 COMMENT about it.
+💾 Save this post for future reference.
