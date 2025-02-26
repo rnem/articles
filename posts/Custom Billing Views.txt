@@ -1,0 +1,34 @@
+Exciting news for AWS users! 🎉 We've just launched 𝐂𝐮𝐬𝐭𝐨𝐦 𝐁𝐢𝐥𝐥𝐢𝐧𝐠 𝐕𝐢𝐞𝐰𝐬 in AWS Billing and Cost Management.
+
+This feature allows for 𝐝𝐞𝐜𝐞𝐧𝐭𝐫𝐚𝐥𝐢𝐳𝐞𝐝 𝐜𝐥𝐨𝐮𝐝 𝐜𝐨𝐬𝐭 𝐦𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐚𝐜𝐫𝐨𝐬𝐬 𝐦𝐮𝐥𝐭𝐢𝐩𝐥𝐞 𝐚𝐜𝐜𝐨𝐮𝐧𝐭𝐬 𝐰𝐢𝐭𝐡𝐢𝐧 𝐚𝐧 𝐨𝐫𝐠𝐚𝐧𝐢𝐳𝐚𝐭𝐢𝐨𝐧. Now, application and business unit owners can access relevant cost data without needing management account access.
+
+🔑 𝐊𝐞𝐲 𝐛𝐞𝐧𝐞𝐟𝐢𝐭𝐬:
+• Create filtered views based on cost allocation tags or specific AWS accounts
+• Share views with member accounts via AWS Resource Access Manager
+• Monitor, analyze, and forecast AWS spend across multiple accounts using existing tools
+
+💡 𝐖𝐡𝐲 𝐢𝐭 𝐦𝐚𝐭𝐭𝐞𝐫𝐬:
+• Solves the challenge of managing costs for applications spanning multiple accounts
+• Eliminates the need for manual aggregation or reliance on central teams
+• Reduces dependency on homegrown solutions or third-party tools
+
+𝐖𝐞 𝐛𝐮𝐢𝐥𝐭 𝐭𝐡𝐢𝐬 𝐛𝐞𝐜𝐚𝐮𝐬𝐞 𝐰𝐞 𝐡𝐞𝐚𝐫𝐝 𝐲𝐨𝐮. Many of you were struggling to keep tabs on costs for apps spread across multiple accounts. Some of you even resorted to building your own tools or buying extra software to manage this.
+
+This launch is just the beginning. We're already working on: 🔮
+1. Supporting setups with multiple AWS organizations
+2. Making it easier to create views using AWS Cost Categories
+3. Expanding this feature to work with more of our cost management tools
+
+𝐂𝐮𝐫𝐢𝐨𝐮𝐬 𝐭𝐨 𝐥𝐞𝐚𝐫𝐧 𝐦𝐨𝐫𝐞? Check out the links in the comments for all the details.
+
+𝐖𝐞'𝐝 𝐥𝐨𝐯𝐞 𝐭𝐨 𝐡𝐞𝐚𝐫 𝐟𝐫𝐨𝐦 𝐲𝐨𝐮: How might this change your approach to managing AWS costs? Drop a comment below!
+
+hashtag#AWS hashtag#CloudCosts hashtag#AWSUpdates hashtag#CloudCostManagement hashtag#AWSBilling
+
+🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺
+
+✨ FOLLOW Roger Nem
+♻ LIKE and REPOST to help others.
+🏷 TAG someone who needs to see this.
+💬 COMMENT about it.
+💾 Save this post for future reference.
