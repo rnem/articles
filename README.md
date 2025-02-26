@@ -15,6 +15,7 @@ Below is a short summary about them.
 
 - [How God has helped me crack the Amazon Interview in 2024](https://medium.com/@rogernem/how-god-has-helped-me-crack-the-amazon-interview-in-2024-3419e4a7b21b)
 - [Amazon Leadership Principles](https://medium.com/@rogernem/amazon-leadership-principles-1a96387dcace)
+- [Getting my Job Application Shortlisted 3 times at Amazon](https://medium.com/@rogernem/getting-my-job-application-shortlisted-3-times-at-amazon-dca9aa3be38b)
 - [Hosting my Static Website in an AWS S3 Bucket - Part 1/3](https://medium.com/@rogernem/hosting-my-static-website-in-an-aws-s3-bucket-d5e1d94417f4)
 - [Hosting my Static Website in an AWS S3 Bucket + CloudFront - Part 2/3](https://medium.com/@rogernem/hosting-my-static-website-in-an-aws-s3-bucket-cloudfront-part-2-3b71e3375a1f)
 - [Hosting my Static Website in an AWS S3 Bucket + CloudFront + Route 53 - Part 3/3](https://medium.com/@rogernem/hosting-my-static-website-in-an-aws-s3-bucket-cloudfront-route-53-3ad8d26b22f1)
