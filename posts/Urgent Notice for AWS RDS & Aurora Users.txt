@@ -1,0 +1,28 @@
+🚨🌟 𝗨𝗿𝗴𝗲𝗻𝘁 𝗡𝗼𝘁𝗶𝗰𝗲 𝗳𝗼𝗿 𝗔𝗪𝗦 𝗥𝗗𝗦 & 𝗔𝘂𝗿𝗼𝗿𝗮 𝗨𝘀𝗲𝗿𝘀! 🌟🚨
+
+If you or your customers are using Secure Sockets Layer (SSL) or Transport Layer Security (TLS) with certificate verification for your Amazon RDS databases (MySQL, MariaDB, SQL Server, Oracle, PostgreSQL) and Amazon Aurora, 𝙞𝙩’𝙨 𝙘𝙧𝙪𝙘𝙞𝙖𝙡 𝙩𝙤 𝙧𝙤𝙩𝙖𝙩𝙚 𝙮𝙤𝙪𝙧 𝘾𝘼 𝙘𝙚𝙧𝙩𝙞𝙛𝙞𝙘𝙖𝙩𝙚𝙨 𝘼𝙎𝘼𝙋 to avoid disruptions and maintain security!
+
+Amazon RDS and Aurora use certificates to encrypt SSL/TLS connections. While newer certificates have a long lifespan (40+ years), most SSL/TLS certificates for your DB instances (𝑟𝑑𝑠-𝑐𝑎-2019) 𝘄𝗶𝗹𝗹 𝗲𝘅𝗽𝗶𝗿𝗲 𝗶𝗻 𝗔𝘂𝗴𝘂𝘀𝘁 𝟮𝟬𝟮𝟰 in several regions, after the 2020 update: 👉 https://lnkd.in/gycEHbah
+
+🔒 𝗜𝗺𝗽𝗼𝗿𝘁𝗮𝗻𝘁: Rotate your certificate authority (CA) certificates in both your DB instances and applications before the root certificate expires.
+
+💡 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻:
+1. Identify Impacted Resources
+2. Select desired validity: 40 years (rds-ca-rsa2048-g1) / 100 years (rds-ca-rsa4096-g1, rds-ca-ecc384-g1)
+3. Schedule updates for clients and applications before the expiry date
+4. Run tests on a staging or pre-production database environment before updating in production
+5. Update Production Instances (Be certain you have a solid DR strategy in place)
+
+Ensure your databases stay secure! 🌐🔐
+
+More information on how to do it at https://lnkd.in/gsTuwysK
+
+🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺
+
+✨ FOLLOW ​Roger Nem
+♻ LIKE and REPOST to help others.
+🏷 TAG someone who needs to see this.
+💬 COMMENT about it.
+💾 Save this post for future reference.
+
+hashtag#AWS hashtag#RDS hashtag#DatabaseSecurity hashtag#SSL hashtag#TLS hashtag#AmazonAurora hashtag#CloudSecurity
