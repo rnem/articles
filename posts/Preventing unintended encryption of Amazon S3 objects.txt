@@ -1,0 +1,23 @@
+🚨 𝐈𝐦𝐩𝐨𝐫𝐭𝐚𝐧𝐭 𝐀𝐖𝐒 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐀𝐥𝐞𝐫𝐭 🚨
+
+AWS CIRT has identified an increase in unauthorized encryption of S3 objects using SSE-C (Server-Side Encryption with Customer-Provided Keys). Malicious actors with valid credentials are re-encrypting customer data!
+
+𝐊𝐞𝐲 𝐏𝐫𝐨𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐒𝐭𝐞𝐩𝐬:
+🛡️ Block SSE-C encryption if not required by your applications
+🔑 Implement short-term credentials - avoid long-term access keys 
+💾 Enable S3 versioning and implement backup procedures 
+🔍 Monitor AWS resources for suspicious patterns using CloudTrail 
+
+𝐑𝐞𝐦𝐞𝐦𝐛𝐞𝐫: This isn't a service vulnerability, but rather unauthorized use of valid credentials. If you suspect any unauthorized activity, contact AWS Support immediately!⚡
+
+📖 𝐑𝐞𝐚𝐝 𝐦𝐨𝐫𝐞: https://lnkd.in/gAyB93EY
+
+hashtag#AWSecurity hashtag#CloudSecurity hashtag#CyberSecurity hashtag#AWS hashtag#AmazonS3 hashtag#InfoSec hashtag#CloudComputing hashtag#SecurityBestPractices hashtag#DataProtection hashtag#ThreatPrevention
+
+🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺
+
+✨ FOLLOW Roger Nem
+♻ LIKE and REPOST to help others.
+🏷 TAG someone who needs to see this.
+💬 COMMENT about it.
+💾 Save this post for future reference.
