@@ -1,0 +1,19 @@
+Amazon Web Services (AWS) has just released 𝗱𝗲𝘁𝗮𝗶𝗹𝗲𝗱 𝗴𝗲𝗼𝗴𝗿𝗮𝗽𝗵𝗶𝗰 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 for all AWS Regions and Availability Zones.
+
+#AWS now operates 114 AZs across 36 Regions globally, with plans to add 12 more AZs and 4 new Regions in New Zealand, Saudi Arabia, Taiwan, and AWS European Sovereign Cloud.
+
+This enhanced transparency delivers real business value for companies like FanDuel who need precise infrastructure location data for regulatory compliance, especially in highly regulated industries like finance and gaming.
+
+Want to know exactly where your workloads run? Check out my friend Prasad Rao's detailed blog post to learn how you can access this geographic information for your AWS Regions and AZs.
+
+Read the full announcement here: [Link in comments]
+
+#AWS #Cloud #Infrastructure #Compliance #CloudComputing #AWSCommunity #TechNews #DigitalTransformation
+
+🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺
+
+✨ FOLLOW Roger Nem
+♻ LIKE and REPOST to help others.
+🏷 TAG someone who needs to see this.
+💬 COMMENT about it.
+💾 Save this post for future reference.
