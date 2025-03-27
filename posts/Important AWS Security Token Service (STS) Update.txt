@@ -2,7 +2,7 @@
 
 I wanted to share some significant changes coming to AWS STS that will enhance performance and reliability for AWS users.
 
-Starting early 2025, hashtag#AWS is implementing an important improvement to the STS global endpoint (sts.amazonaws.com). 
+Starting early 2025, #AWS is implementing an important improvement to the STS global endpoint (sts.amazonaws.com). 
 
 𝐓𝐡𝐞 𝐤𝐞𝐲 𝐜𝐡𝐚𝐧𝐠𝐞? Requests will now be automatically served in the same Region as your AWS deployed workloads, rather than being routed through US East (N. Virginia).
 
@@ -27,7 +27,7 @@ This is a welcome improvement for the AWS community, especially for organization
 
 What are your thoughts on this update?
 
-hashtag#AWS hashtag#CloudComputing hashtag#Security hashtag#TechNews hashtag#CloudArchitecture
+#AWS #CloudComputing #Security #TechNews #CloudArchitecture
 
 🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺
 
