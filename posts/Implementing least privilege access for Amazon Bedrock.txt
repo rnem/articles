@@ -23,7 +23,7 @@ This essential resource is a must-read if you're responsible for:
 
 What security challenges have you encountered while implementing GenAI solutions? Share your experiences below 👇
 
-hashtag#AWS hashtag#CloudSecurity hashtag#GenerativeAI hashtag#AmazonBedrock hashtag#Security hashtag#CloudComputing hashtag#IAM
+#AWS #CloudSecurity #GenerativeAI #AmazonBedrock #Security #CloudComputing #IAM
 
 🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺
 
