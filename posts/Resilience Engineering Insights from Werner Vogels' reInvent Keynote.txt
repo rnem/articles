@@ -1,6 +1,6 @@
 🚀 𝐑𝐞𝐬𝐢𝐥𝐢𝐞𝐧𝐜𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 𝐟𝐫𝐨𝐦 𝐖𝐞𝐫𝐧𝐞𝐫 𝐕𝐨𝐠𝐞𝐥𝐬' 𝐫𝐞:𝐈𝐧𝐯𝐞𝐧𝐭 𝐊𝐞𝐲𝐧𝐨𝐭𝐞
 
-At hashtag#AWS hashtag#reinvent, Werner Vogels highlighted two crucial aspects of resilience engineering: 𝐬𝐢𝐦𝐩𝐥𝐢𝐜𝐢𝐭𝐲 𝐚𝐧𝐝 𝐩𝐫𝐞𝐝𝐢𝐜𝐭𝐚𝐛𝐢𝐥𝐢𝐭𝐲. Let's dive into an example that illustrates these principles in action! 💡
+At #AWS #reinvent, Werner Vogels highlighted two crucial aspects of resilience engineering: 𝐬𝐢𝐦𝐩𝐥𝐢𝐜𝐢𝐭𝐲 𝐚𝐧𝐝 𝐩𝐫𝐞𝐝𝐢𝐜𝐭𝐚𝐛𝐢𝐥𝐢𝐭𝐲. Let's dive into an example that illustrates these principles in action! 💡
 
 The Amazon Elastic Load Balancer (ELB) operates on AWS Hyperplane, an internal EC2 network service. When it comes to handling configuration changes, ELB Hyperplane employs a pull model - a great example of 𝐬𝐢𝐦𝐩𝐥𝐢𝐜𝐢𝐭𝐲 𝐢𝐧 𝐜𝐨𝐦𝐩𝐥𝐞𝐱 𝐬𝐲𝐬𝐭𝐞𝐦𝐬.
 
@@ -32,7 +32,7 @@ Have you encountered situations where changing your perspective led to simpler, 
 
 𝐒𝐡𝐚𝐫𝐞 𝐲𝐨𝐮𝐫 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞𝐬 𝐢𝐧 𝐭𝐡𝐞 𝐜𝐨𝐦𝐦𝐞𝐧𝐭𝐬 𝐛𝐞𝐥𝐨𝐰! 👇
 
-hashtag#AWS hashtag#CloudComputing hashtag#ResilienceEngineering hashtag#TechInnovation hashtag#ProblemSolving hashtag#Simplicity 
+#AWS #CloudComputing #ResilienceEngineering #TechInnovation #ProblemSolving #Simplicity 
 
 🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺
 
