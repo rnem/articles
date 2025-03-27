@@ -12,7 +12,7 @@ AWS CIRT has identified an increase in unauthorized encryption of S3 objects usi
 
 📖 𝐑𝐞𝐚𝐝 𝐦𝐨𝐫𝐞: https://lnkd.in/gAyB93EY
 
-hashtag#AWSecurity hashtag#CloudSecurity hashtag#CyberSecurity hashtag#AWS hashtag#AmazonS3 hashtag#InfoSec hashtag#CloudComputing hashtag#SecurityBestPractices hashtag#DataProtection hashtag#ThreatPrevention
+#AWSecurity #CloudSecurity #CyberSecurity #AWS #AmazonS3 #InfoSec #CloudComputing #SecurityBestPractices #DataProtection #ThreatPrevention
 
 🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺
 
