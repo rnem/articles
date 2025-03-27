@@ -13,7 +13,7 @@ These features streamline security investigations, compliance monitoring, and op
 
 Read the full article to learn how these new capabilities can enhance your cloud visibility and investigations: [Link in comments]
 
-hashtag#AWS hashtag#CloudSecurity hashtag#CloudComputing hashtag#TechNews hashtag#CloudTrail hashtag#SecurityAnalytics hashtag#CloudGovernance hashtag#CloudOps hashtag#AWSCommunity hashtag#TechInnovation
+#AWS #CloudSecurity #CloudComputing #TechNews #CloudTrail #SecurityAnalytics #CloudGovernance #CloudOps #AWSCommunity #TechInnovation
 
 🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺
 
