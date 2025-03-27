@@ -23,7 +23,7 @@ This launch is just the beginning. We're already working on: 🔮
 
 𝐖𝐞'𝐝 𝐥𝐨𝐯𝐞 𝐭𝐨 𝐡𝐞𝐚𝐫 𝐟𝐫𝐨𝐦 𝐲𝐨𝐮: How might this change your approach to managing AWS costs? Drop a comment below!
 
-hashtag#AWS hashtag#CloudCosts hashtag#AWSUpdates hashtag#CloudCostManagement hashtag#AWSBilling
+#AWS #CloudCosts #AWSUpdates #CloudCostManagement #AWSBilling
 
 🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺
 
