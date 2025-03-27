@@ -1,0 +1,41 @@
+📢 𝐍𝐞𝐰 𝐅𝐫𝐞𝐞 𝐂𝐨𝐮𝐫𝐬𝐞: 𝐀𝐖𝐒 𝐖𝐞𝐥𝐥-𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐞𝐝 𝐟𝐨𝐫 𝐄𝐧𝐭𝐞𝐫𝐩𝐫𝐢𝐬𝐞𝐬
+
+Excited to share that #AWS has launched a new intermediate-level digital course: "𝗪𝗲𝗹𝗹-𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝗲𝗱 𝗳𝗼𝗿 𝗘𝗻𝘁𝗲𝗿𝗽𝗿𝗶𝘀𝗲𝘀." (link in comments) This free offering is designed to help organizations scale Well-Architected principles across multiple workloads and teams.
+
+🎯 𝗖𝗼𝘂𝗿𝘀𝗲 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀: 
+• Extends Well-Architected Framework beyond individual workloads 
+• Covers best practices for Well-Architected Framework Reviews (WAFR) 
+• Provides interactive scenarios for risk identification and remediation 
+• Explores generative AI applications in streamlining reviews 
+• Discusses tools like AWS Well-Architected Tool and AWS Trusted Advisor
+
+👨‍💼 𝐖𝐡𝐨 𝐒𝐡𝐨𝐮𝐥𝐝 𝐄𝐧𝐫𝐨𝐥𝐥: Technical professionals architecting, building, and operating AWS solutions at scale.
+
+🔑 𝗞𝗲𝘆 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴𝘀:
+- Core elements of Well-Architected Framework
+- #WAFR preparation and execution strategies
+- Workload architecture improvement techniques
+- Scaling Well-Architected practices in large organizations
+- Leveraging generative AI for optimization
+
+⏱️ 𝗖𝗼𝘂𝗿𝘀𝗲 𝗗𝘂𝗿𝗮𝘁𝗶𝗼𝗻: Approximately 1 hour
+
+🏆 𝗕𝗲𝗻𝗲𝗳𝗶𝘁𝘀: 
+• Optimize cloud architecture aligned with business goals 
+• Address common enterprise-scale WAFR challenges 
+• Standardize processes for organizational visibility 
+• Efficiently adopt Well-Architected best practices
+
+Ready to elevate your enterprise's cloud strategy? Enroll now in this valuable, free course!
+
+What's your experience with implementing Well-Architected principles at scale? Share your insights below! 👇
+
+#AWS #AWSWellArchitected #WAFR #CloudArchitecture #EnterpriseCloud #AWSLearning #TechSkills #CloudComputing 
+
+🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺
+
+✨ FOLLOW Roger Nem
+♻ LIKE and REPOST to help others.
+🏷 TAG someone who needs to see this.
+💬 COMMENT about it.
+💾 Save this post for future reference.
