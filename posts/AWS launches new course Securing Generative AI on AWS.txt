@@ -1,6 +1,6 @@
 🚀 𝐀𝐖𝐒 𝐥𝐚𝐮𝐧𝐜𝐡𝐞𝐬 𝐧𝐞𝐰 𝐜𝐨𝐮𝐫𝐬𝐞: 𝐒𝐞𝐜𝐮𝐫𝐢𝐧𝐠 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐯𝐞 𝐀𝐈 𝐨𝐧 𝐀𝐖𝐒! 🔒🤖
 
-Attention hashtag#CloudSecurity professionals and hashtag#AI enthusiasts! hashtag#AWS has released a new course on AWS Skill Builder to support our customers in securing their generative AI workloads on Amazon Web Services (AWS).
+Attention #CloudSecurity professionals and #AI enthusiasts! #AWS has released a new course on AWS Skill Builder to support our customers in securing their generative AI workloads on Amazon Web Services (AWS).
 
 This 𝗳𝗿𝗲𝗲 𝗰𝗼𝘂𝗿𝘀𝗲 covers: 
 • Generative AI Security Scoping Matrix 
@@ -19,7 +19,7 @@ For more information on generative AI security, we recommend reviewing our recen
 
 Who's planning to take this course? Let's discuss! 💡
 
-hashtag#AWSSkillBuilder hashtag#GenerativeAI hashtag#CloudSecurity hashtag#AIEngineering hashtag#ContinuousLearning AWS Training and Certifications
+#AWSSkillBuilder #GenerativeAI #CloudSecurity #AIEngineering #ContinuousLearning AWS Training and Certifications
 
 🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺
 
