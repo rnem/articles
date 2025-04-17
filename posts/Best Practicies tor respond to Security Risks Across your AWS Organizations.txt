@@ -1,6 +1,6 @@
 🚨 𝗪𝗮𝗻𝘁 𝘁𝗼 𝗸𝗻𝗼𝘄 𝗵𝗼𝘄 𝘁𝗼 𝗿𝗲𝘀𝗽𝗼𝗻𝗱 𝘁𝗼 𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗿𝗶𝘀𝗸𝘀 𝗹𝗶𝗸𝗲 𝗮 𝗽𝗿𝗼? 🛡️
 
-I'm excited to share an insightful #AWS blog post (link in comments) about implementing best practices for responding to security risks across AWS Organizations!
+I'm excited to share an insightful #AWS blog post (link in the comments) about implementing best practices for responding to security risks across AWS Organizations!
 
 The article provides a comprehensive guide on building a 𝗿𝗼𝗯𝘂𝘀𝘁 𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗶𝗻𝗰𝗶𝗱𝗲𝗻𝘁 𝗿𝗲𝘀𝗽𝗼𝗻𝘀𝗲 𝘀𝘁𝗿𝗮𝘁𝗲𝗴𝘆, including practical examples of handling S3 bucket vulnerabilities and leveraging the Automated Security Response on AWS (ASR) solution.
 
