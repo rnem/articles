@@ -1,6 +1,6 @@
 📢 𝐍𝐞𝐰 𝐅𝐫𝐞𝐞 𝐂𝐨𝐮𝐫𝐬𝐞: 𝐀𝐖𝐒 𝐖𝐞𝐥𝐥-𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐞𝐝 𝐟𝐨𝐫 𝐄𝐧𝐭𝐞𝐫𝐩𝐫𝐢𝐬𝐞𝐬
 
-Excited to share that #AWS has launched a new intermediate-level digital course: "𝗪𝗲𝗹𝗹-𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝗲𝗱 𝗳𝗼𝗿 𝗘𝗻𝘁𝗲𝗿𝗽𝗿𝗶𝘀𝗲𝘀." (link in comments) This free offering is designed to help organizations scale Well-Architected principles across multiple workloads and teams.
+Excited to share that #AWS has launched a new intermediate-level digital course: "𝗪𝗲𝗹𝗹-𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝗲𝗱 𝗳𝗼𝗿 𝗘𝗻𝘁𝗲𝗿𝗽𝗿𝗶𝘀𝗲𝘀." (link in the comments) This free offering is designed to help organizations scale Well-Architected principles across multiple workloads and teams.
 
 🎯 𝗖𝗼𝘂𝗿𝘀𝗲 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀: 
 • Extends Well-Architected Framework beyond individual workloads 
