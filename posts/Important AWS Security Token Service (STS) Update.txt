@@ -21,7 +21,7 @@ Starting early 2025, #AWS is implementing an important improvement to the STS gl
 ⏱️ 𝗥𝗼𝗹𝗹𝗼𝘂𝘁 𝗧𝗶𝗺𝗲𝗹𝗶𝗻𝗲:
 The changes will be gradually implemented across AWS Regions that are enabled by default, with completion expected by mid-2025. The rollout begins with the Europe (Stockholm) Region.
 
-By following the steps in the blog post 𝗛𝗼𝘄 𝘁𝗼 𝘂𝘀𝗲 𝗥𝗲𝗴𝗶𝗼𝗻𝗮𝗹 𝗔𝗪𝗦 𝗦𝗧𝗦 𝗲𝗻𝗱𝗽𝗼𝗶𝗻𝘁𝘀 (link in comments), you can identify workloads that are still using the global STS endpoint and get insights into how to reconfigure them when required.
+By following the steps in the blog post 𝗛𝗼𝘄 𝘁𝗼 𝘂𝘀𝗲 𝗥𝗲𝗴𝗶𝗼𝗻𝗮𝗹 𝗔𝗪𝗦 𝗦𝗧𝗦 𝗲𝗻𝗱𝗽𝗼𝗶𝗻𝘁𝘀 (link in the comments), you can identify workloads that are still using the global STS endpoint and get insights into how to reconfigure them when required.
 
 This is a welcome improvement for the AWS community, especially for organizations running multi-region workloads. Looking forward to seeing the positive impact on application performance and reliability.
 
