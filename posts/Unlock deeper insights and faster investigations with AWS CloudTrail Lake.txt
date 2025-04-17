@@ -11,7 +11,7 @@ Key highlights include:
 
 These features streamline security investigations, compliance monitoring, and operational analysis while reducing costs. Whether you're a cloud security professional, compliance officer, or operations manager, these updates deliver deeper insights faster.
 
-Read the full article to learn how these new capabilities can enhance your cloud visibility and investigations: [Link in comments]
+Read the full article to learn how these new capabilities can enhance your cloud visibility and investigations: [Link in the comments]
 
 #AWS #CloudSecurity #CloudComputing #TechNews #CloudTrail #SecurityAnalytics #CloudGovernance #CloudOps #AWSCommunity #TechInnovation
 
