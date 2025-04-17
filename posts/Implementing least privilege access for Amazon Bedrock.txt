@@ -2,7 +2,7 @@
 
 As organizations rush to implement Generative AI solutions, security often becomes an afterthought. This can lead to serious vulnerabilities in how we handle sensitive data, manage model access, and control API permissions.
 
-Amazon Web Services (AWS)'s latest article (link in comments) provides critical guidance on implementing least privilege access for Amazon Bedrock.
+Amazon Web Services (AWS)'s latest article (link in the comments) provides critical guidance on implementing least privilege access for Amazon Bedrock.
 
 The comprehensive guide covers:
 
