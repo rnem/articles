@@ -2,7 +2,7 @@
 
 One consistent theme we hear from our customers is their desire to optimize cloud costs. Among AWS services, #EC2 instances often represent one of the highest cost centers, especially when instances are left running during off-peak hours or periods of inactivity.
 
-I encourage you to read this #AWS blog post (link in comments) that explores two practical approaches to automatically manage EC2 instances and reduce costs.
+I encourage you to read this #AWS blog post (link in the comments) that explores two practical approaches to automatically manage EC2 instances and reduce costs.
 
 The first method uses #CloudWatch alarms to monitor instance inactivity, while the second employs #Lambda with #EventBridge for scheduled shutdowns.
 
