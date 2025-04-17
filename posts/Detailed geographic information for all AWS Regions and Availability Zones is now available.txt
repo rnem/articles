@@ -6,7 +6,7 @@ This enhanced transparency delivers real business value for companies like FanDu
 
 Want to know exactly where your workloads run? Check out my friend Prasad Rao's detailed blog post to learn how you can access this geographic information for your AWS Regions and AZs.
 
-Read the full announcement here: [Link in comments]
+Read the full announcement here: [Link in the comments]
 
 #AWS #Cloud #Infrastructure #Compliance #CloudComputing #AWSCommunity #TechNews #DigitalTransformation
 
