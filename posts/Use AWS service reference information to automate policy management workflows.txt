@@ -15,7 +15,7 @@ Amazon Web Services (AWS) has released service reference information in JSON for
 
 This feature addresses the growing complexity of managing permissions across AWS services, providing organizations with concrete tools for IAM policy automation.
 
-Learn more in the detailed blog post (link in comments).
+Learn more in the detailed blog post (link in the comments).
 
 How are you currently managing your AWS policy updates? Let me know in the comments below. 👇
 
