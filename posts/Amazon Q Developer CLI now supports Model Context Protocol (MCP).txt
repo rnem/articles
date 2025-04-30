@@ -1,0 +1,22 @@
+Exciting news for developers! 𝗔𝗺𝗮𝘇𝗼𝗻 𝗤 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗖𝗟𝗜 𝗻𝗼𝘄 𝘀𝘂𝗽𝗽𝗼𝗿𝘁𝘀 𝗠𝗼𝗱𝗲𝗹 𝗖𝗼𝗻𝘁𝗲𝘅𝘁 𝗣𝗿𝗼𝘁𝗼𝗰𝗼𝗹 (𝗠𝗖𝗣), enabling richer context-aware responses through external data source integration.
+
+This new capability allows developers to: 
+• Connect to pre-built integrations or any MCP Servers supporting stdio 
+• Access database schemas more effectively 
+• Generate accurate code and unit tests 
+• Create precise database documentation 
+• Execute queries with better context
+
+You can now extend Amazon Q Developer with MCP tools and prompts to streamline your development workflow without writing custom integration code.
+
+Learn more about this powerful integration and how to implement it in your development process: https://lnkd.in/gdUHeBPi
+
+#AWS #AmazonQ #DeveloperTools #CloudComputing #SoftwareDevelopment Amazon Web Services (AWS) AWS Training and Certifications
+
+🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺
+
+✨ FOLLOW Roger Nem
+♻ LIKE and REPOST to help others.
+🏷 TAG someone who needs to see this.
+💬 COMMENT about it.
+💾 Save this post for future reference.
