@@ -1,0 +1,21 @@
+Automate Incident Investigation Using Natural Language with Amazon Bedrock & Security Lake.
+
+Amazon Web Services (AWS) has just released a practical solution that enables security teams to investigate incidents using natural language queries instead of complex SQL. By combining 𝗔𝗺𝗮𝘇𝗼𝗻 𝗕𝗲𝗱𝗿𝗼𝗰𝗸 𝘄𝗶𝘁𝗵 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗟𝗮𝗸𝗲, security analysts can:
+
+• Query security data using conversational language 
+• Access relevant incident response playbooks automatically 
+• Generate and execute SQL queries without writing code 
+• Reduce investigation time with AI-assisted analysis 
+• Deploy a complete solution with step-by-step guidance
+
+Want to modernize your security operations with AI? Read the detailed implementation guide and deployment instructions here: https://lnkd.in/g2gnBU7N
+
+#AWS #CloudSecurity #AWSBedrock #SecurityAutomation #CloudComputing #GenerativeAI AWS Training and Certifications
+
+🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺
+
+✨ FOLLOW Roger Nem
+♻ LIKE and REPOST to help others.
+🏷 TAG someone who needs to see this.
+💬 COMMENT about it.
+💾 Save this post for future reference.
