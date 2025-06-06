@@ -15,6 +15,7 @@ Below is a short summary about them.
 
 - [How God has helped me crack the Amazon Interview in 2024](https://medium.com/@rogernem/how-god-has-helped-me-crack-the-amazon-interview-in-2024-3419e4a7b21b)
 - [Amazon Leadership Principles](https://medium.com/@rogernem/amazon-leadership-principles-1a96387dcace)
+- [Overview of the Amazon Interview Process in 2024](https://medium.com/@rogernem/overview-of-the-amazon-interview-process-in-2024-be472e30a045)
 - [Getting my Job Application Shortlisted 3 times at Amazon](https://medium.com/@rogernem/getting-my-job-application-shortlisted-3-times-at-amazon-dca9aa3be38b)
 - [Hosting my Static Website in an AWS S3 Bucket - Part 1/3](https://medium.com/@rogernem/hosting-my-static-website-in-an-aws-s3-bucket-d5e1d94417f4)
 - [Hosting my Static Website in an AWS S3 Bucket + CloudFront - Part 2/3](https://medium.com/@rogernem/hosting-my-static-website-in-an-aws-s3-bucket-cloudfront-part-2-3b71e3375a1f)
@@ -24,6 +25,8 @@ Below is a short summary about them.
 - [AWS to Charge Public IPv4 Addresses](https://medium.com/@rogernem/aws-to-charge-public-ipv4-addresses-ea6a284d3462)
 - [Estimating your public IPv4 address charges in AWS](https://medium.com/@rogernem/estimating-your-public-ipv4-address-charges-in-aws-4882a45b8de1)
 - [Connecting to your Remote Instances without a Public IPv4 Address](https://medium.com/@rogernem/connecting-to-your-remote-instances-without-a-public-ipv4-address-c20fee85a4b2)
+- [What is AWS KMS and how many keys are really needed?](https://medium.com/@rogernem/what-is-aws-kms-and-how-many-keys-are-really-needed-6e9fb1eaca92)
+- [From Chaos to Control: The Critical Role of AWS Resource Tagging](https://medium.com/@rogernem/from-chaos-to-control-the-critical-role-of-aws-resource-tagging-54dfd539dc64)
 
 #### Azure
 
