@@ -1,0 +1,27 @@
+𝗔𝗪𝗦 𝗿𝗲:𝗜𝗻𝗳𝗼𝗿𝗰𝗲 𝟮𝟬𝟮𝟱 𝗥𝗼𝘂𝗻𝗱𝘂𝗽: 𝗞𝗲𝘆 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗔𝗻𝗻𝗼𝘂𝗻𝗰𝗲𝗺𝗲𝗻𝘁𝘀!
+
+As AWS continues to innovate, this year's conference brought an impressive array of new features and enhancements that will make our cloud environments more secure and easier to manage. 
+
+Whether you joined us in Philadelphia or couldn't make it this year, here are the major security innovations announced at #AWSreInforce2025:
+
+𝗞𝗲𝘆 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀: 
+• New IAM Access Analyzer capabilities for verifying internal access to critical AWS resources 
+• Mandatory MFA enforcement for root users across all AWS accounts 
+• Amazon threat intelligence integration with AWS Network Firewall 
+• Exportable public SSL/TLS certificates from AWS Certificate Manager 
+• Simplified AWS WAF console experience with 80% reduced configuration steps 
+• Enhanced CloudFront interface for streamlined web application security 
+• Preview: AWS Shield's new network security posture management 
+• Preview: Upgraded AWS Security Hub for better risk prioritization 
+• Extended Amazon GuardDuty coverage for EKS clusters 
+• New AWS MSSP Competency categories 
+• Amazon Verified Permissions for Express applications 
+• Amazon Inspector code security now generally available 
+• Multi-party approval for AWS Backup air-gapped vaults
+
+These innovations focus on simplifying security at scale and enabling more resilient cloud applications.
+
+👉 Want more details? Full announcement post link in comments below!
+
+#AWS #CloudSecurity #CyberSecurity #CloudComputing #TechNews #Innovation
+
