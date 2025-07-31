@@ -1,0 +1,30 @@
+🚀 𝐑𝐞𝐜𝐚𝐩 𝐨𝐟 𝐭𝐡𝐞 𝐦𝐚𝐣𝐨𝐫 𝐚𝐧𝐧𝐨𝐮𝐧𝐜𝐞𝐦𝐞𝐧𝐭𝐬 𝐟𝐫𝐨𝐦 #𝐀𝐖𝐒𝐒𝐮𝐦𝐦𝐢𝐭𝐍𝐘 𝟐𝟎𝟐𝟓!
+
+With the rapid pace of Amazon Web Services (AWS) cloud innovation, it can be challenging to keep up with all the announcements. 
+
+For this reason I'm sharing a recap of the major highlights from #AWSSummitNY 2025 from AWS VP of Agentic AI Swami Sivasubramanian's keynote! 
+
+• Amazon Bedrock AgentCore (Preview): Deploy AI agents at scale with enterprise-grade security
+• Amazon Nova customization in SageMaker AI: Extensive foundation model customization capabilities
+• AWS AI League: New program combining competition with hands-on AI learning
+• Enhanced AWS Free Tier: Up to $200 in credits for new customers
+• TwelveLabs video understanding models now in Amazon Bedrock
+• Amazon S3 Metadata & S3 Vectors: Revolutionary storage capabilities for metadata and vector operations
+• New SageMaker capabilities for streamlined data insights
+• Enhanced EventBridge logging for better monitoring
+• Blue/green deployments in Amazon ECS
+• Amazon EKS now supports 100K nodes per cluster for massive AI/ML workloads
+
+Read the full announcement details in the link provided in the comments below.
+
+For those who attended: Which announcement resonated most with your organization's cloud strategy? I'd love to hear your thoughts below!
+
+#AWS #Cloud #AWSCommunity #AI #MachineLearning #CloudComputing #TechNews
+
+🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺
+
+✨ FOLLOW Roger Nem
+♻ LIKE and REPOST to help others.
+🏷 TAG someone who needs to see this.
+💬 COMMENT about it.
+💾 Save this post for future reference.
