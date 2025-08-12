@@ -28,6 +28,7 @@ Below is a short summary about them.
 - [What is AWS KMS and how many keys are really needed?](https://medium.com/@rogernem/what-is-aws-kms-and-how-many-keys-are-really-needed-6e9fb1eaca92)
 - [From Chaos to Control: The Critical Role of AWS Resource Tagging](https://medium.com/@rogernem/from-chaos-to-control-the-critical-role-of-aws-resource-tagging-54dfd539dc64)
 - [How I cleared the AWS Security Specialty Exam in 12 days in 2025](https://medium.com/@rogernem/how-i-cleared-the-aws-security-specialty-exam-in-12-days-in-2025-dd63c5f1f9bd)
+- [AI-Powered Learning: Revolutionizing Certification Preparation](https://medium.com/@rogernem/ai-powered-learning-b79714e2bd9a)
 
 #### Azure
 
