@@ -1,0 +1,23 @@
+𝗢𝗻𝗲 𝗼𝗳 𝗛𝗶𝘀𝘁𝗼𝗿𝘆'𝘀 𝗠𝗼𝘀𝘁 𝗣𝗼𝘄𝗲𝗿𝗳𝘂𝗹 𝗗𝗗𝗼𝗦 𝗕𝗼𝘁𝗻𝗲𝘁𝘀 𝗗𝗶𝘀𝗺𝗮𝗻𝘁𝗹𝗲𝗱 𝘄𝗶𝘁𝗵 𝗔𝗪𝗦 𝗛𝗲𝗹𝗽
+
+Proud to share how Amazon Web Services (AWS)'s customer obsession extends beyond our direct services to protecting the broader internet community.
+
+The U.S. Department of Justice announced the takedown of "Rapper Bot," one of the most powerful DDoS botnets ever discovered. Working alongside DCIS and other industry partners, AWS helped investigate this threat that conducted over 𝟯𝟳𝟬,𝟬𝟬𝟬 𝗮𝘁𝘁𝗮𝗰𝗸𝘀 𝘁𝗮𝗿𝗴𝗲𝘁𝗶𝗻𝗴 𝟭𝟴,𝟬𝟬𝟬 𝘂𝗻𝗶𝗾𝘂𝗲 𝘃𝗶𝗰𝘁𝗶𝗺𝘀 𝗮𝗰𝗿𝗼𝘀𝘀 𝟴𝟬+ 𝗰𝗼𝘂𝗻𝘁𝗿𝗶𝗲𝘀 since April 2025.
+
+The botnet's attacks were massive - commonly measuring 𝟮-𝟯 𝗧𝗲𝗿𝗮𝗯𝗶𝘁𝘀 𝗽𝗲𝗿 𝘀𝗲𝗰𝗼𝗻𝗱, with some potentially exceeding 𝟲 𝗧𝗲𝗿𝗮𝗯𝗶𝘁𝘀. These attacks didn't just impact individual organizations - they threatened the stability and security of the internet infrastructure we all rely on.
+
+AWS's security teams contributed by identifying command and control infrastructure and reverse engineering the malware, demonstrating our commitment to not just serving our customers, but protecting the broader digital ecosystem.
+
+This successful operation shows what's possible when public and private sectors work together. Kudos to all partners involved including DCIS, DOJ, and fellow technology companies who helped make the internet safer today.
+
+Read more here: https://lnkd.in/gAy6XSg6
+
+#AWS #Cybersecurity #CustomerObsession #CloudSecurity #DigitalSafety AWS Training & Certification
+
+🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺
+
+✨ FOLLOW Roger Nem
+♻ LIKE and REPOST to help others.
+🏷 TAG someone who needs to see this.
+💬 COMMENT about it.
+💾 Save this post for future reference.
