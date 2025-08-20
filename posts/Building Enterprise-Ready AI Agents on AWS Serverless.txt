@@ -1,0 +1,33 @@
+Building Enterprise-Ready AI Agents on AWS Serverless!
+
+Want to learn how to build 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻-𝗿𝗲𝗮𝗱𝘆 𝗔𝗜 𝗮𝗴𝗲𝗻𝘁𝘀 that can reason, plan, and take actions? According to Gartner, by 2028, over 33% of enterprise applications will embed agentic capabilities – up from less than 1% today!
+
+Amazon Web Services (AWS) has just released an exciting blog post that covers:
+• Building AI agents using Strands Agents SDK - a code-first framework with minimal boilerplate
+• Implementation of agentic loops for autonomous, goal-driven behavior
+• Session state management using S3 or Bedrock AgentCore Memory
+• Authentication patterns with Amazon Cognito, IAM, and API Gateway
+• Tool integration using Model Context Protocol (MCP)
+• Observability and monitoring with OpenTelemetry and CloudWatch
+• Security best practices for enterprise deployment
+• Portable agent development across different compute options
+
+𝗞𝗲𝘆 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀:
+Support for both in-process and remote tools
+Seamless integration with AWS services
+Built-in observability and metrics tracking
+Flexible deployment options (Lambda, ECS, or AgentCore Runtime)
+
+💡 𝗕𝗼𝗻𝘂𝘀: Get started immediately with a complete sample project on GitHub!
+
+Read the full article here: https://lnkd.in/g5Gu5cgV
+
+#AWS #Serverless #AI #ArtificialIntelligence #CloudComputing #TechNews #Innovation #AgenticAI #Agents #Strands AWS Training & Certification
+
+🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺
+
+✨ FOLLOW Roger Nem
+♻ LIKE and REPOST to help others.
+🏷 TAG someone who needs to see this.
+💬 COMMENT about it.
+💾 Save this post for future reference.
