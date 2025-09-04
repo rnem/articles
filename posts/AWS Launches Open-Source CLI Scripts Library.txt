@@ -1,0 +1,13 @@
+AWS Launches Open-Source CLI Scripts Library!
+
+I'm excited to announce our latest open-source project that's revolutionizing how developers work with AWS CLI!
+
+The new Amazon Web Services Developer Tutorials project on GitHub is transforming the way developers interact with AWS services through the command line. This comprehensive library features tested shell scripts covering more than 60 AWS services, making resource management more efficient than ever before.
+
+Using generative AI tools like Amazon Q Developer CLI, you can now create working AWS CLI scripts in as little as 15 minutes. We've integrated best practices for error handling, resource tracking, and cleanup operations, ensuring a smooth experience for developers at all levels.
+
+Each tutorial comes with detailed explanations of how the scripts interact with AWS service APIs, making it easier than ever to create, manage, and clean up your resources. Plus, with our AI-powered script generation capabilities, you can quickly adapt existing examples to your specific needs.
+
+Ready to supercharge your AWS CLI experience? More info here: https://builder.aws.com/content/30w3vIpXgSNM1fxsDzjKKUCxwQg/aws-developer-tutorials-docs-as-test
+
+#AWS #CloudComputing #DeveloperTools #OpenSource #TechInnovation #CloudTechnology #AWSCommunity
