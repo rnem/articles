@@ -1,0 +1,25 @@
+I'm thrilled to share "𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐢𝐧𝐠 𝐡𝐞𝐚𝐥𝐭𝐡𝐜𝐚𝐫𝐞 𝐞𝐧𝐫𝐨𝐥𝐥𝐦𝐞𝐧𝐭 𝐰𝐢𝐭𝐡 𝐚𝐠𝐞𝐧𝐭𝐢𝐜 𝐀𝐈 𝐟𝐨𝐫 𝐩𝐚𝐲𝐨𝐫𝐬," a blog post I co-authored with Ripunjaya Pattnaik that was published today!🚀
+
+This marks my first official Amazon Web Services (AWS) Blog Post, and I couldn't be more excited that it focuses on transforming healthcare enrollment with Agentic AI for payors—a topic that sits at the intersection of cutting-edge technology and real-world healthcare challenges.
+
+As a TAM working with Healthcare and Life Sciences customers at AWS, I've witnessed firsthand how payors struggle during open enrollment periods. Traditional systems buckle under the strain of millions of member records flooding in through diverse channels, creating processing bottlenecks and requiring extensive manual intervention.
+
+Our solution leverages Agentic AI capabilities to revolutionize this process. Instead of treating enrollment like a rigid assembly line, we've created intelligent AI agents that work like specialized healthcare experts—each with domain expertise in validation, compliance, data enrichment, and exception handling.
+
+The results speak for themselves: 𝐩𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠 𝐭𝐢𝐦𝐞𝐬 𝐫𝐞𝐝𝐮𝐜𝐞𝐝 𝐟𝐫𝐨𝐦 𝐝𝐚𝐲𝐬 𝐭𝐨 𝐦𝐢𝐧𝐮𝐭𝐞𝐬, 𝐦𝐚𝐧𝐮𝐚𝐥 𝐢𝐧𝐭𝐞𝐫𝐯𝐞𝐧𝐭𝐢𝐨𝐧 𝐜𝐮𝐭 𝐛𝐲 𝐨𝐯𝐞𝐫 𝟔𝟎%, 𝐚𝐧𝐝 𝐬𝐲𝐬𝐭𝐞𝐦𝐬 𝐭𝐡𝐚𝐭 𝐬𝐜𝐚𝐥𝐞 𝐚𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐜𝐚𝐥𝐥𝐲 𝐟𝐫𝐨𝐦 𝐭𝐡𝐨𝐮𝐬𝐚𝐧𝐝𝐬 𝐭𝐨 𝐦𝐢𝐥𝐥𝐢𝐨𝐧𝐬 of submissions during peak periods.
+
+What excites me most is how this approach transforms enrollment from a labor-intensive seasonal burden into an automated, intelligent process that continuously improves through machine learning—all while maintaining strict HIPAA compliance and regulatory standards.
+
+Click to read more about how agentic AI is reshaping healthcare enrollment and discover the technical innovations making this transformation possible. 
+
+https://lnkd.in/gzVsTkS4
+
+hashtag#AWS hashtag#HealthcareAI hashtag#AgenticAI hashtag#DigitalTransformation hashtag#Healthcare hashtag#MachineLearning hashtag#AmazonBedrock
+
+🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺
+
+✨ FOLLOW Roger Nem
+♻ LIKE and REPOST to help others.
+🏷 TAG someone who needs to see this.
+💬 COMMENT about it.
+💾 Save this post for future reference.
