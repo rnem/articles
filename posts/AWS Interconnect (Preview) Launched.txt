@@ -1,0 +1,38 @@
+🚀 𝗕𝗥𝗘𝗔𝗞𝗜𝗡𝗚 𝗡𝗘𝗪𝗦: 𝗔𝗪𝗦 𝗟𝗮𝘂𝗻𝗰𝗵𝗲𝘀 𝗜𝗻𝘁𝗲𝗿𝗰𝗼𝗻𝗻𝗲𝗰𝘁 - 𝗠𝘂𝗹𝘁𝗶𝗰𝗹𝗼𝘂𝗱: 𝗣𝘂𝗿𝗽𝗼𝘀𝗲-𝗕𝘂𝗶𝗹𝘁 𝗠𝗮𝗻𝗮𝗴𝗲𝗱 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗕𝗲𝘁𝘄𝗲𝗲𝗻 𝗖𝗹𝗼𝘂𝗱 𝗣𝗿𝗼𝘃𝗶𝗱𝗲𝗿𝘀
+
+Amazon Web Services (AWS) has announced the preview of AWS Interconnect, multicloud, a new managed capability providing simple, resilient, high-speed private connections between Amazon VPCs and other cloud providers (starting with Google Cloud, with Azure announced for 2026).
+
+This moves away from "do-it-yourself" multicloud networking to provide a native, standardized way for clouds to connect.
+
+In just a few steps in the AWS Management Console or via CLI, you can: 
+1. Choose the target cloud provider 
+2. Select the destination region 
+3. Pick the required bandwidth
+
+AWS and the other CSP handle provisioning, capacity, resiliency, and support, giving you a single attachment representing your network capacity to that provider.
+
+𝗪𝗵𝘆 𝗧𝗵𝗶𝘀 𝗠𝗮𝘁𝘁𝗲𝗿𝘀:
+ • Drastically simplifies multicloud architectures for data, analytics, AI, and SaaS workloads
+ • Improves security and resilience with private, encrypted, quad‑redundant connectivity 
+ • Standardizes connectivity patterns across clouds instead of piecing together custom solutions
+
+This jointly engineered multicloud networking solution uses both AWS Interconnect - multicloud and Google Cloud's Cross-Cloud Interconnect, enabling private, high-bandwidth connectivity with increased speed and simplicity.
+
+𝗣𝗿𝗲𝘃𝗶𝗲𝘄 𝗥𝗲𝗴𝗶𝗼𝗻𝘀:
+🌎 AWS US East (N. Virginia) us-east-1 – Google Cloud N. Virginia (us-east4) 
+🌎 AWS US West (N. California) us-west-1 – Google Cloud Los Angeles (us-west2) 
+🌎 AWS US West (Oregon) us-west-2 – Google Cloud Oregon (us-west1) 
+🌍 AWS Europe (London) eu-west-2 – Google Cloud London (europe-west2) 
+🌍 AWS Europe (Frankfurt) eu-central-1 – Google Cloud Frankfurt (europe-west3)
+
+Get the full details here: https://aws.amazon.com/interconnect/multicloud/
+
+#AWS #AWSInterconnect #Multicloud #CloudNetworking #CloudArchitecture #GoogleCloud #Azure #reInvent2025
+
+🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺
+
+✨ FOLLOW Roger Nem
+♻ LIKE and REPOST to help others.
+🏷 TAG someone who needs to see this.
+💬 COMMENT about it.
+💾 Save this post for future reference.
