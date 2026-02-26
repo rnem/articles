@@ -1,0 +1,28 @@
+𝗔𝗪𝗦 𝗢𝗯𝘀𝗲𝗿𝘃𝗮𝗯𝗶𝗹𝗶𝘁𝘆 𝗶𝘀 𝗻𝗼𝘄 𝗮𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗮𝘀 𝗮 𝗞𝗶𝗿𝗼 𝗣𝗼𝘄𝗲𝗿 🚀
+
+This release changes how we troubleshoot and operate on Amazon Web Services (AWS) — bringing AI agent-assisted workflows directly into your IDE.
+
+The AWS Observability power bundles four specialized MCP servers into a single 𝗼𝗻𝗲-𝗰𝗹𝗶𝗰𝗸 𝗶𝗻𝘀𝘁𝗮𝗹𝗹 inside Kiro IDE:
+
+ • 𝗖𝗹𝗼𝘂𝗱𝗪𝗮𝘁𝗰𝗵 — observability data and alarm response
+ • 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗦𝗶𝗴𝗻𝗮𝗹𝘀 — application performance monitoring
+ • 𝗖𝗹𝗼𝘂𝗱𝗧𝗿𝗮𝗶𝗹 — security analysis and compliance
+ • 𝗔𝗪𝗦 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 — contextual reference on demand
+
+Your AI agent in Kiro gets the full context it needs to investigate active incidents — correlating alarms, traces, logs, and metrics — without leaving your development environment. The power also includes automated gap analysis that examines your code to surface missing instrumentation: unlogged errors, absent correlation IDs, missing distributed tracing — and delivers actionable recommendations to fix them before they become incidents.
+
+𝗘𝗶𝗴𝗵𝘁 𝗰𝗼𝗺𝗽𝗿𝗲𝗵𝗲𝗻𝘀𝗶𝘃𝗲 𝘀𝘁𝗲𝗲𝗿𝗶𝗻𝗴 𝗴𝘂𝗶𝗱𝗲𝘀 are included, covering incident response, alerting, performance monitoring, security auditing, and gap analysis.
+
+Available now with 𝗼𝗻𝗲-𝗰𝗹𝗶𝗰𝗸 𝗶𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻 in Kiro IDE, in all AWS Regions.
+
+Check the comments for the full announcement and documentation links.
+
+#AWS #Observability #KiroIDE #CloudWatch #DevOps #SRE #CloudOperations #AIAgents #MCP
+
+🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺
+
+✨ FOLLOW Roger Nem
+♻ LIKE and REPOST to help others.
+🏷 TAG someone who needs to see this.
+💬 COMMENT about it.
+💾 Save this post for future reference.
