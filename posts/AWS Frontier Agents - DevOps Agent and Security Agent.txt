@@ -1,0 +1,23 @@
+Something fundamental is shifting in how we build and operate systems. We're moving from tools that respond to commands to systems that can reason, decide, and act autonomously.
+
+Today marks a milestone in that shift: AWS #DevOpsAgent and AWS #SecurityAgent are now generally available. We're calling these "frontier agents" because they represent a new class of capability—systems that work persistently across multiple steps to achieve outcomes, not just respond to individual prompts.
+
+𝗔𝗪𝗦 𝗗𝗲𝘃𝗢𝗽𝘀 𝗔𝗴𝗲𝗻𝘁 acts as an always-available operations teammate. It investigates incidents autonomously, correlating telemetry, code, and deployment data across your entire stack—whether that's AWS, multicloud, or on-premises. The results we're seeing are significant: customers like United Airlines, Western Governors University, and T-Mobile are reporting 3–5x faster incident resolution. At WGU, what used to take hours now takes minutes. In preview, we saw up to 75% lower MTTR.
+
+𝗔𝗪𝗦 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗔𝗴𝗲𝗻𝘁 transforms penetration testing from a periodic event into continuous, context-aware capability. Most organizations can only afford manual pen testing for their most critical applications. This agent changes that equation—it ingests your design docs, source code, and architecture diagrams to conduct analysis across your entire application portfolio. Customers including LG CNS, HENNGE, and Wayspring are seeing over 50% faster testing, ~30% lower costs, and significantly fewer false positives.
+
+Both agents work across environments. Both operate autonomously until the job is done. And both are designed to handle the heavy lifting so teams can focus on what matters most.
+
+We're still early in this journey, but this feels like an important step toward more autonomous, resilient systems.
+
+Learn more: https://lnkd.in/gJnzJv79
+
+#AWS #CloudSecurity #DevOps #AIAgents #CloudOperations #IncidentResponse Amazon Web Services (AWS)
+
+🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺
+
+✨ FOLLOW Roger Nem
+♻ LIKE and REPOST to help others.
+🏷 TAG someone who needs to see this.
+💬 COMMENT about it.
+💾 Save this post for future reference.
