@@ -1,0 +1,22 @@
+𝗞𝗶𝗿𝗼 𝗖𝗟𝗜 𝟮.𝟬 𝗶𝘀 𝗼𝘂𝘁, and this one's built for developers who live in the terminal.
+
+After listening to feedback from experimental mode, we've shipped three updates that give you more control with less friction:
+
+𝗛𝗲𝗮𝗱𝗹𝗲𝘀𝘀 𝗺𝗼𝗱𝗲 is now available, letting you run Kiro CLI programmatically inside your CI/CD pipelines. Whether you're troubleshooting a production failure or automating pull request generation and publishing, you can now execute long-running prompts without manual intervention.
+
+𝗪𝗶𝗻𝗱𝗼𝘄𝘀 𝘀𝘂𝗽𝗽𝗼𝗿𝘁 is here. The features and workflows you rely on in Kiro are now natively available on Windows. No more workarounds needed.
+
+𝗔 𝗿𝗲𝗳𝗿𝗲𝘀𝗵𝗲𝗱 𝗨𝗫, 𝗻𝗼𝘄 𝗳𝘂𝗹𝗹𝘆 𝗚𝗔. The updated experience is now the default. Since the experimental launch, we've smoothed out the rough edges and introduced a new subagent experience along with a task list that helps you stay on top of what the agent is doing in real time.
+
+Install the latest version and let us know what you think.
+https://lnkd.in/g6Jnp-Ke
+
+#KiroCLI #AWS #DevTools #CICD #DevOps #BuildOnAWS #DeveloperExperience Amazon Web Services (AWS)
+
+🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺
+
+✨ FOLLOW Roger Nem
+♻ LIKE and REPOST to help others.
+🏷 TAG someone who needs to see this.
+💬 COMMENT about it.
+💾 Save this post for future reference.
