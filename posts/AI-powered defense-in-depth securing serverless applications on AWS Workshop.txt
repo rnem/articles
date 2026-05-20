@@ -1,0 +1,34 @@
+I'm honored to share that after over a month of dedicated work, 𝗺𝘆 𝗳𝗶𝗿𝘀𝘁 𝗔𝗪𝗦 𝗪𝗼𝗿𝗸𝘀𝗵𝗼𝗽 𝗶𝘀 𝗻𝗼𝘄 𝗹𝗶𝘃𝗲! 🎉
+
+𝗔𝗜-𝗽𝗼𝘄𝗲𝗿𝗲𝗱 𝗱𝗲𝗳𝗲𝗻𝘀𝗲-𝗶𝗻-𝗱𝗲𝗽𝘁𝗵: 𝘀𝗲𝗰𝘂𝗿𝗶𝗻𝗴 𝘀𝗲𝗿𝘃𝗲𝗿𝗹𝗲𝘀𝘀 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 𝗼𝗻 𝗔𝗪𝗦
+
+Building on my AWS Security Blog post (link in the comments), this hands-on workshop takes you deep into securing serverless applications across 𝘀𝗲𝘃𝗲𝗻 𝗱𝗶𝘀𝘁𝗶𝗻𝗰𝘁 𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗹𝗮𝘆𝗲𝗿𝘀.
+
+𝗪𝗵𝗮𝘁 𝗺𝗮𝗸𝗲𝘀 𝘁𝗵𝗶𝘀 𝘄𝗼𝗿𝗸𝘀𝗵𝗼𝗽 𝘀𝗽𝗲𝗰𝗶𝗮𝗹:
+
+• 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝘁𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗱𝗲𝗽𝘁𝗵 across identity verification, API security, network isolation, compute security, secrets management, data protection, and AI-powered monitoring, threat detection, intelligent summarization & automated incident response
+• 𝟭𝟱+ 𝗔𝗪𝗦 𝘀𝗲𝗿𝘃𝗶𝗰𝗲𝘀 integrated into production-grade security patterns
+• 𝗖𝗼𝗺𝗽𝗿𝗲𝗵𝗲𝗻𝘀𝗶𝘃𝗲 𝗪𝗲𝗹𝗹-𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝗲𝗱 𝗰𝗼𝘃𝗲𝗿𝗮𝗴𝗲 with strong focus on Security, plus reliability, operational excellence, cost optimization, and performance efficiency
+• 𝗚𝘂𝗶𝗱𝗲𝗱 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗽𝗮𝘁𝗵 with structured templates that make advanced concepts accessible
+
+You'll deploy an intentionally insecure serverless application and progressively harden it, culminating in an AI-powered monitoring capstone with Amazon GuardDuty, Bedrock, and automated incident response.
+
+Whether you're a security engineer, cloud architect, or developer looking to level up your security skills, this workshop gives you the hands-on experience to implement defense-in-depth patterns you can take directly to production.
+
+A huge thank you to Jesus for this blessing and to everyone who supported this journey — and a very special recognition goes to Fernando Freitas for his thorough review to ensure my workshop follows Amazon Web Services (AWS)’s workshop best practices and meets AWS's highest standards.🙏
+
+Fernando's guidance and attention to detail has been invaluable in helping me deliver a workshop that I'm confident represents quality work— and as we always say here at AWS, there is always room to keep raising the bar. 💪
+
+Building something that is accessed by hundreds of thousands of customers and teams around the globe, and that genuinely helps the cloud community grow and strengthen their security posture is incredibly rewarding. I invite you to explore the workshop and experience hands-on how to build defense-in-depth architectures that align with AWS best practices.🙏
+
+𝗪𝗼𝗿𝗸𝘀𝗵𝗼𝗽 𝗟𝗶𝗻𝗸: https://lnkd.in/gsRAFfeU
+
+#AWS #CloudSecurity #ServerlessSecurity #DefenseInDepth #AWSWorkshop #AIpowered #AWSCommunity #HandsOnLearning
+
+🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺
+
+✨ FOLLOW Roger Nem
+♻ LIKE and REPOST to help others.
+🏷 TAG someone who needs to see this.
+💬 COMMENT about it.
+💾 Save this post for future reference.
