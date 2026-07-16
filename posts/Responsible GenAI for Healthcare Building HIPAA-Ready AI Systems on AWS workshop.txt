@@ -1,0 +1,31 @@
+🏥𝗠𝘆 "𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝗯𝗹𝗲 𝗚𝗲𝗻𝗔𝗜 𝗳𝗼𝗿 𝗛𝗲𝗮𝗹𝘁𝗵𝗰𝗮𝗿𝗲: 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗛𝗜𝗣𝗔𝗔-𝗥𝗲𝗮𝗱𝘆 𝗔𝗜 𝗦𝘆𝘀𝘁𝗲𝗺𝘀 𝗼𝗻 𝗔𝗪𝗦" 𝘄𝗼𝗿𝗸𝘀𝗵𝗼𝗽 𝗶𝘀 𝗻𝗼𝘄 𝗹𝗶𝘃𝗲 🎉
+
+As a TAM at Amazon Web Services (AWS), I support Healthcare & Life Sciences organizations whose solutions impact millions of lives. In these conversations, one challenge keeps coming up: how do we adopt generative AI responsibly while staying HIPAA-compliant and protecting patient data?
+
+That's why I built this workshop. It's not theoretical. It's shaped by real compliance challenges HCLS organizations face every day, and I'm grateful to launch something that directly addresses them.
+
+Building on my AWS Blog post "Building a HIPAA-ready generative AI architecture for healthcare on AWS," this hands-on workshop takes you deep into building responsible, compliant generative AI systems across 𝟳 𝗱𝗶𝘀𝘁𝗶𝗻𝗰𝘁 𝗰𝗼𝗺𝗽𝗹𝗶𝗮𝗻𝗰𝗲 𝗹𝗮𝘆𝗲𝗿𝘀. After another month of thorough review and dedicated work, I'm honored to share this with the community.
+
+𝗪𝗵𝗮𝘁 𝗺𝗮𝗸𝗲𝘀 𝘁𝗵𝗶𝘀 𝘄𝗼𝗿𝗸𝘀𝗵𝗼𝗽 𝘀𝗽𝗲𝗰𝗶𝗮𝗹:
+• 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝘁𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗱𝗲𝗽𝘁𝗵 across edge protection, HIPAA-eligible platform configuration, ePHI protection, FHIR data foundations, grounded RAG pipelines, agentic session isolation, and governance & audit trails 
+• 𝗛𝗮𝗻𝗱𝘀-𝗼𝗻 𝗶𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 of defense-in-depth patterns for healthcare organizations handling ePHI 
+• 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻-𝗴𝗿𝗮𝗱𝗲 𝗽𝗮𝘁𝘁𝗲𝗿𝗻𝘀 integrating Amazon Bedrock Guardrails, AWS HealthLake, Amazon Bedrock AgentCore, Cedar-based authorization, and continuous compliance monitoring 
+• 𝗖𝗼𝗺𝗽𝗹𝗶𝗮𝗻𝗰𝗲-𝗳𝗶𝗿𝘀𝘁 𝗮𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 where ungrounded clinical statements are treated as compliance violations — in healthcare, accuracy isn't optional
+
+Whether you're a cloud architect, security engineer, or healthcare technology leader, this workshop gives you hands-on experience building a HIPAA-ready generative AI system from the ground up, from DDoS mitigation and prompt injection filtering at the edge, to immutable audit trails with 6+ year retention.
+
+Knowing that hundreds of thousands of customers and teams around the globe access these workshops, and that they genuinely help the cloud community strengthen their security posture, is incredibly rewarding. I invite you to explore it and experience how to build defense-in-depth architectures that align with AWS best practices.
+
+Grateful to my Lord for this blessing and to Fernando Freitas for his thorough review to ensure my workshop meets AWS's highest standards. 🙏
+
+𝗪𝗼𝗿𝗸𝘀𝗵𝗼𝗽 𝗟𝗶𝗻𝗸: https://lnkd.in/gGHm4jFJ
+
+#AWS #GenerativeAI #AWSWorkshop #ResponsibleAI #HCLS #AmazonBedrock #ePHI
+
+🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻
+
+✨ FOLLOW Roger Nem
+♻ LIKE and REPOST to help others
+🏷 TAG someone who needs to see this
+💬 COMMENT about it
+💾 Save this post for future reference
