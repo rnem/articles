@@ -1,0 +1,31 @@
+Excited to share my latest AWS Blog post: "𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗮 𝗛𝗜𝗣𝗔𝗔-𝗿𝗲𝗮𝗱𝘆 𝗴𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝘃𝗲 𝗔𝗜 𝗮𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 𝗳𝗼𝗿 𝗵𝗲𝗮𝗹𝘁𝗵𝗰𝗮𝗿𝗲 𝗼𝗻 𝗔𝗪𝗦" published today.
+
+Healthcare organizations are racing to adopt generative AI — but when you're dealing with Electronic Protected Health Information (ePHI), security can't be an afterthought. It must be architected from the ground up.
+
+In this post, I break down a comprehensive defense-in-depth architecture with 𝟳 𝗱𝗶𝘀𝘁𝗶𝗻𝗰𝘁 𝗰𝗼𝗺𝗽𝗹𝗶𝗮𝗻𝗰𝗲 𝗹𝗮𝘆𝗲𝗿𝘀 designed to protect patient data at every level of the stack:
+
+• 𝗘𝗱𝗴𝗲 𝗣𝗿𝗼𝘁𝗲𝗰𝘁𝗶𝗼𝗻: DDoS mitigation, WAF rules, and prompt injection filtering before traffic even reaches your application
+• 𝗛𝗜𝗣𝗔𝗔-𝗘𝗹𝗶𝗴𝗶𝗯𝗹𝗲 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 𝗖𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗮𝘁𝗶𝗼𝗻: Private networking with AWS PrivateLink, customer-managed encryption with AWS KMS, and BAA coverage
+• 𝗲𝗣𝗛𝗜 𝗣𝗿𝗼𝘁𝗲𝗰𝘁𝗶𝗼𝗻: Automated PHI redaction and content filtering with Amazon Bedrock Guardrails
+• 𝗙𝗛𝗜𝗥 𝗗𝗮𝘁𝗮 𝗙𝗼𝘂𝗻𝗱𝗮𝘁𝗶𝗼𝗻: Standards-based clinical data with AWS HealthLake for terminology normalization and data integrity
+• 𝗚𝗿𝗼𝘂𝗻𝗱𝗲𝗱 𝗥𝗔𝗚 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲: Treating ungrounded clinical statements as compliance violations, not just quality issues
+• 𝗔𝗴𝗲𝗻𝘁𝗶𝗰 𝗦𝗲𝘀𝘀𝗶𝗼𝗻 𝗜𝘀𝗼𝗹𝗮𝘁𝗶𝗼𝗻: Infrastructure-level patient context boundaries with Amazon Bedrock AgentCore, Cedar-based authorization policies, and identity-aware access control
+• 𝗚𝗼𝘃𝗲𝗿𝗻𝗮𝗻𝗰𝗲 & 𝗔𝘂𝗱𝗶𝘁 𝗧𝗿𝗮𝗶𝗹𝘀 — Immutable log storage, 6+ year retention, and continuous compliance monitoring
+
+Compliance and innovation aren't mutually exclusive. By building compliance into the architecture from the start, healthcare organizations can adopt generative AI with confidence that patient data is protected and clinical outputs are grounded in verified records.
+
+No single layer is sufficient on its own — that's the essence of defense in depth. A failure in any single layer is less likely to expose ePHI when the others remain active.
+
+Special shout out to our AWS HCLS Security Specialist Hector Rodriguez, MBA for his thorough review, ensuring this post raised the bar on best practices, security, and compliance guidance. 💪 
+
+𝗥𝗲𝗮𝗱 𝘁𝗵𝗲 𝗳𝘂𝗹𝗹 𝗮𝗿𝘁𝗶𝗰𝗹𝗲: [LINK IN THE COMMENTS]
+
+#AWS #Healthcare #HIPAA #GenerativeAI #CloudSecurity #DefenseInDepth #HealthcareAI #HCLS #AmazonBedrock #Cybersecurity #PatientPrivacy #ePHI #CloudArchitecture Amazon Web Services (AWS)
+
+🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺
+
+✨ FOLLOW Roger Nem
+♻ LIKE and REPOST to help others.
+🏷 TAG someone who needs to see this.
+💬 COMMENT about it.
+💾 Save this post for future reference.
