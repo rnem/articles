@@ -1,0 +1,25 @@
+🎉 𝗧𝗵𝗿𝗶𝗹𝗹𝗲𝗱 𝘁𝗼 𝘀𝗵𝗮𝗿𝗲 𝘁𝗵𝗮𝘁 𝗜'𝘃𝗲 𝗲𝗮𝗿𝗻𝗲𝗱 𝘁𝗵𝗲 𝗔𝗪𝗦 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗲𝗱 𝗔𝗜 𝗣𝗿𝗮𝗰𝘁𝗶𝘁𝗶𝗼𝗻𝗲𝗿 (𝗔𝗜𝗙-𝗖𝟬𝟭) 𝗰𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻!
+
+In my role as TAM, supporting Enterprise customers deploying AI and ML workloads on Amazon Web Services (AWS), I've seen firsthand how critical it is to get the foundations right. Whether it's understanding the fundamentals of generative AI, applying foundation models to real-world business problems, or navigating the complexities of responsible AI and security governance, a strong foundational knowledge isn't optional, it's essential.
+
+This certification validates expertise across five key domains: Fundamentals of AI & Machine Learning, Fundamentals of Generative AI, Applications of Foundation Models, Guidelines for Responsible AI and Security, Compliance & Governance for AI Solutions.
+
+When Enterprise customers trust you to guide their AI journey, you owe it to them to deeply understand the technology. Not just at the surface level, but from the ground up. Getting the foundation right means better architectural decisions, more secure implementations, and ultimately, more successful outcomes.
+
+I'm glad I saw Ivan Kopas post about the 50% off promo code. This adds to my growing commitment to staying at the forefront of AI/ML on AWS, alongside my published work on AI-powered security architectures and hands-on experience building agentic AI solutions.
+
+I used Kiro to pass this exam and wrote an article about the full methodology: https://lnkd.in/ghpxcuUR
+
+I have also open-sourced every prompt from my study plan. Clone the repo, customize the prompts for your learning style, and start practicing: https://lnkd.in/gHMjRYZe
+
+The AI landscape is evolving fast, and honestly, the more I learn, the more I realize how much the fundamentals matter. Worth the investment.
+
+#AWS #AWSCertified #AIPractitioner #ArtificialIntelligence #MachineLearning #GenerativeAI #CloudComputing #ResponsibleAI #ContinuousLearning
+
+🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻
+
+✨ FOLLOW Roger Nem
+♻ LIKE and REPOST to help others.
+🏷 TAG someone who needs to see this.
+💬 COMMENT about it.
+💾 Save this post for future reference.
