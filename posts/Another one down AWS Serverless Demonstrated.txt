@@ -1,0 +1,25 @@
+𝗔𝗻𝗼𝘁𝗵𝗲𝗿 𝗼𝗻𝗲 𝗱𝗼𝘄𝗻: 𝗔𝗪𝗦 𝗦𝗲𝗿𝘃𝗲𝗿𝗹𝗲𝘀𝘀 𝗗𝗲𝗺𝗼𝗻𝘀𝘁𝗿𝗮𝘁𝗲𝗱 ✅🎉
+
+Happy to have passed another Amazon Web Services (AWS) microcredential, this time in the serverless domain.
+
+As Ivan Kopas mentioned in his post, these are now free for everyone with no Skill Builder subscription required. You get 90 minutes in a live AWS environment with a broken serverless platform. In my run, multiple layers of the stack were down: authentication, APIs, data persistence, event-driven workflows, security, networking, and CI/CD. You need to systematically diagnose and fix everything before time runs out.
+
+There's no linear path. Each fix unlocks the next problem. You have to triage, prioritize, and execute under real time pressure.
+
+What makes these AWS microcredentials different from traditional certifications is that there's nowhere to hide. You can't reason your way through multiple choice. Either you can operate in a live environment or you can't.
+
+That's three out of eight down now: Incident Response, Agentic AI, and Serverless.🕺
+
+If you're looking to push yourself beyond certs and prove you can actually build and fix things under fire, these are it.
+
+𝗖𝗿𝗲𝗱𝗲𝗻𝘁𝗶𝗮𝗹: https://lnkd.in/gBteeav4
+
+#AWS #Serverless #CloudComputing #Microcredentials #HandsOnLearning #AWSCertified #ContinuousLearning #DevOps #CloudArchitecture AWS Training and Certification
+
+🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺
+
+✨ FOLLOW Roger Nem
+♻ LIKE and REPOST to help others
+🏷 TAG someone who needs to see this
+💬 COMMENT about it
+💾 SAVE this post for future reference 
