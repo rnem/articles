@@ -1,0 +1,34 @@
+𝗣𝗿𝗼𝗮𝗰𝘁𝗶𝘃𝗲 𝗖𝗼𝘀𝘁 𝗚𝗼𝘃𝗲𝗿𝗻𝗮𝗻𝗰𝗲 𝗝𝘂𝘀𝘁 𝗚𝗼𝘁 𝗥𝗲𝗮𝗹: 𝗔𝗪𝗦 𝗔𝗰𝗰𝗼𝘂𝗻𝘁 𝗦𝗽𝗲𝗻𝗱 𝗟𝗶𝗺𝗶𝘁𝘀
+
+One of the most persistent challenges in cloud cost management is the gap between when costs are incurred and when they become visible. By the time you notice the spike, the damage is done.
+
+Amazon Web Services (AWS) is changing that with 𝗔𝗰𝗰𝗼𝘂𝗻𝘁 𝗦𝗽𝗲𝗻𝗱 𝗟𝗶𝗺𝗶𝘁𝘀, a capability that lets you set a monthly spending ceiling at the project level. When usage hits the defined threshold, AWS automatically pauses resources to prevent cost overruns.
+
+This is a meaningful shift from reactive cost monitoring to 𝗽𝗿𝗼𝗮𝗰𝘁𝗶𝘃𝗲 𝗰𝗼𝘀𝘁 𝗲𝗻𝗳𝗼𝗿𝗰𝗲𝗺𝗲𝗻𝘁.
+
+Here's why this matters:
+  • 𝗛𝗮𝗿𝗱 𝘀𝗽𝗲𝗻𝗱𝗶𝗻𝗴 𝗯𝗼𝘂𝗻𝗱𝗮𝗿𝗶𝗲𝘀: Move beyond budget alerts and after-the-fact investigation. Spend limits enforce cost discipline automatically.
+  • 𝗣𝗿𝗼𝗷𝗲𝗰𝘁-𝗹𝗲𝘃𝗲𝗹 𝗴𝗼𝘃𝗲𝗿𝗻𝗮𝗻𝗰e: Tailor spending thresholds based on each workload's business criticality, risk profile, and allocated budget.
+  • 𝗚𝗿𝗮𝗱𝘂𝗮𝘁𝗲𝗱 𝗲𝗮𝗿𝗹𝘆 𝗰𝗼𝗻𝘁𝗿𝗼𝗹𝘀: Before the limit is reached, AWS can optionally stop new resource launches (~7 days out), pause idle resources (~5 days out), and pause top cost drivers (~4 days out).
+  • 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗲𝗱 𝗻𝗼𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀: Alerts at 50%, 75%, and 90% of your limit, plus a forecast-based alert when you're on track to exceed it within 10 days.
+
+This complements your existing AWS Budgets and Cost Anomaly Detection setup. While those tools provide visibility and alerting, spend limits add the 𝗲𝗻𝗳𝗼𝗿𝗰𝗲𝗺𝗲𝗻𝘁 𝗹𝗮𝘆𝗲𝗿, particularly valuable for experimentation, sandbox, and development workloads where costs can escalate quickly.
+
+A few things to keep in mind:
+1/ Spend limits exclude credits and apply to pre-tax charges 
+2/ If a project is paused, you have 90 days to take action before data is permanently deleted 
+3/ AWS is currently rolling this out to a limited number of customers, so access may not yet be available in your account
+
+Read more: https://lnkd.in/gJEi5AC2
+
+If you're managing cloud costs across multiple teams or workloads, this is worth a close look.
+
+#AWS #CloudCostManagement #FinOps #CostGovernance #CloudComputing
+
+🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺
+
+✨ FOLLOW Roger Nem
+♻ LIKE and REPOST to help others
+🏷 TAG someone who needs to see this
+💬 COMMENT about it
+💾 SAVE this post for future reference
