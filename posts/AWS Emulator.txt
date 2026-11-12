@@ -1,0 +1,22 @@
+𝗪𝗵𝗮𝘁 𝗶𝗳 𝘆𝗼𝘂 𝗰𝗼𝘂𝗹𝗱 𝘁𝗲𝘀𝘁 𝘆𝗼𝘂𝗿 𝗔𝗪𝗦 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗼𝗻 𝘆𝗼𝘂𝗿 𝗹𝗮𝗽𝘁𝗼𝗽 𝗯𝗲𝗳𝗼𝗿𝗲 𝗱𝗲𝗽𝗹𝗼𝘆𝗶𝗻𝗴 𝗮 𝘀𝗶𝗻𝗴𝗹𝗲 𝗿𝗲𝘀𝗼𝘂𝗿𝗰𝗲? 🚀
+
+Amazon Web Services (AWS) launched 𝗔𝗪𝗦 𝗘𝗺𝘂𝗹𝗮𝘁𝗼𝗿, a local environment for building and testing applications that use AWS.
+
+A coding agent can build a lot of software on top of one wrong assumption. The faster it can test that assumption, the faster it can fix its work. AWS Emulator runs 𝗹𝗼𝗰𝗮𝗹𝗹𝘆 𝗼𝗻 𝘆𝗼𝘂𝗿 𝗺𝗮𝗰𝗵𝗶𝗻𝗲 and gives the AWS CLI, the AWS SDKs, and coding agents like Kiro or Claude Code a local endpoint that uses the 𝘀𝗮𝗺𝗲 𝗔𝗪𝗦 𝗔𝗣𝗜𝘀 𝗮𝘀 𝘁𝗵𝗲 𝗰𝗹𝗼𝘂𝗱. You set a few environment variables, 𝘆𝗼𝘂𝗿 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗰𝗼𝗱𝗲 𝘀𝘁𝗮𝘆𝘀 𝘂𝗻𝗰𝗵𝗮𝗻𝗴𝗲𝗱, and your existing tests run against your laptop. There's 𝗻𝗼 𝗮𝗱𝗱𝗶𝘁𝗶𝗼𝗻𝗮𝗹 𝘀𝗲𝗿𝘃𝗶𝗰𝗲 𝗳𝗲𝗲, so you pay only when you deploy to AWS.
+
+It's built from the same API models the AWS SDKs use, so requests and errors look the way they do on AWS. Take an application that reads orders from Amazon SQS and has to handle duplicates in Amazon DynamoDB. A flawed retry assumption 𝘀𝗵𝗼𝘄𝘀 𝘂𝗽 𝗱𝘂𝗿𝗶𝗻𝗴 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, 𝗹𝗼𝗻𝗴 𝗯𝗲𝗳𝗼𝗿𝗲 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻. It's written in Rust so it stays light, it's open source on GitHub, and an embedded mode gives each test its own isolated state so tests can run in parallel.
+
+As we give agents more responsibility, fast and accurate feedback decides how much we can hand off and how much we can trust the results.
+
+𝗧𝗵𝗲 𝘃𝗶𝘀𝗶𝗼𝗻: https://lnkd.in/g2Zpkf7y
+𝗧𝗵𝗲 𝗵𝗮𝗻𝗱𝘀-𝗼𝗻 𝘄𝗮𝗹𝗸𝘁𝗵𝗿𝗼𝘂𝗴𝗵: https://lnkd.in/gXVfZiuF
+
+#AWS #AgenticAI #DevTools #CloudDevelopment
+
+🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺🔻🔺
+
+✨ FOLLOW Roger Nem
+♻ LIKE and REPOST to help others
+🏷 TAG someone who needs to see this
+💬 COMMENT about it
+💾 SAVE this post for future reference
